@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moha
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning html,css and javascipt basics and also have some basic python programming language.
+- 🌱 I’m currently learning html,css, javascipt, reactjs and Solidity basics and also have some basic python programming language.
 - 💞️ I’m looking to collaborate on web and app development and much more about programming in general.
 - 📫 How to reach me ...
 
